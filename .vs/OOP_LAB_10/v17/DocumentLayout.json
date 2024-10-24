@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1404C3-69AE-49A4-ACEF-4CF15DC3B0CC}|OOP_LAB_10\\OOP_LAB_10.vcxproj|D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_10\\OOP_LAB_10\\OOP_LAB_10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B1404C3-69AE-49A4-ACEF-4CF15DC3B0CC}|OOP_LAB_10\\OOP_LAB_10.vcxproj|solutionrelative:OOP_LAB_10\\OOP_LAB_10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1404C3-69AE-49A4-ACEF-4CF15DC3B0CC}|OOP_LAB_10\\OOP_LAB_10.vcxproj|D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_10\\OOP_LAB_10\\Hyperbola.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B1404C3-69AE-49A4-ACEF-4CF15DC3B0CC}|OOP_LAB_10\\OOP_LAB_10.vcxproj|solutionrelative:OOP_LAB_10\\Hyperbola.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1404C3-69AE-49A4-ACEF-4CF15DC3B0CC}|OOP_LAB_10\\OOP_LAB_10.vcxproj|D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_10\\OOP_LAB_10\\Hyperbola.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B1404C3-69AE-49A4-ACEF-4CF15DC3B0CC}|OOP_LAB_10\\OOP_LAB_10.vcxproj|solutionrelative:OOP_LAB_10\\Hyperbola.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1404C3-69AE-49A4-ACEF-4CF15DC3B0CC}|OOP_LAB_10\\OOP_LAB_10.vcxproj|D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_10\\OOP_LAB_10\\Ellipse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B1404C3-69AE-49A4-ACEF-4CF15DC3B0CC}|OOP_LAB_10\\OOP_LAB_10.vcxproj|solutionrelative:OOP_LAB_10\\Ellipse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1404C3-69AE-49A4-ACEF-4CF15DC3B0CC}|OOP_LAB_10\\OOP_LAB_10.vcxproj|D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_10\\OOP_LAB_10\\Ellipse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B1404C3-69AE-49A4-ACEF-4CF15DC3B0CC}|OOP_LAB_10\\OOP_LAB_10.vcxproj|solutionrelative:OOP_LAB_10\\Ellipse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1404C3-69AE-49A4-ACEF-4CF15DC3B0CC}|OOP_LAB_10\\OOP_LAB_10.vcxproj|D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_10\\OOP_LAB_10\\Curve.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B1404C3-69AE-49A4-ACEF-4CF15DC3B0CC}|OOP_LAB_10\\OOP_LAB_10.vcxproj|solutionrelative:OOP_LAB_10\\Curve.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1404C3-69AE-49A4-ACEF-4CF15DC3B0CC}|OOP_LAB_10\\OOP_LAB_10.vcxproj|D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_10\\OOP_LAB_10\\Line.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B1404C3-69AE-49A4-ACEF-4CF15DC3B0CC}|OOP_LAB_10\\OOP_LAB_10.vcxproj|solutionrelative:OOP_LAB_10\\Line.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1404C3-69AE-49A4-ACEF-4CF15DC3B0CC}|OOP_LAB_10\\OOP_LAB_10.vcxproj|D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_10\\OOP_LAB_10\\line.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B1404C3-69AE-49A4-ACEF-4CF15DC3B0CC}|OOP_LAB_10\\OOP_LAB_10.vcxproj|solutionrelative:OOP_LAB_10\\line.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Curve.h",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_10\\OOP_LAB_10\\Curve.h",
+              "RelativeDocumentMoniker": "OOP_LAB_10\\Curve.h",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_10\\OOP_LAB_10\\Curve.h",
+              "RelativeToolTip": "OOP_LAB_10\\Curve.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-24T17:32:48.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Line.h",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_10\\OOP_LAB_10\\Line.h",
+              "RelativeDocumentMoniker": "OOP_LAB_10\\Line.h",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_10\\OOP_LAB_10\\Line.h",
+              "RelativeToolTip": "OOP_LAB_10\\Line.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-24T17:33:10.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Line.cpp",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_10\\OOP_LAB_10\\Line.cpp",
+              "RelativeDocumentMoniker": "OOP_LAB_10\\Line.cpp",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_10\\OOP_LAB_10\\Line.cpp",
+              "RelativeToolTip": "OOP_LAB_10\\Line.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T17:33:29.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ellipse.h",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_10\\OOP_LAB_10\\Ellipse.h",
+              "RelativeDocumentMoniker": "OOP_LAB_10\\Ellipse.h",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_10\\OOP_LAB_10\\Ellipse.h",
+              "RelativeToolTip": "OOP_LAB_10\\Ellipse.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-24T17:33:52.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ellipse.cpp",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_10\\OOP_LAB_10\\Ellipse.cpp",
+              "RelativeDocumentMoniker": "OOP_LAB_10\\Ellipse.cpp",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_10\\OOP_LAB_10\\Ellipse.cpp",
+              "RelativeToolTip": "OOP_LAB_10\\Ellipse.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T17:34:15.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hyperbola.h",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_10\\OOP_LAB_10\\Hyperbola.h",
+              "RelativeDocumentMoniker": "OOP_LAB_10\\Hyperbola.h",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_10\\OOP_LAB_10\\Hyperbola.h",
+              "RelativeToolTip": "OOP_LAB_10\\Hyperbola.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-24T17:34:38.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hyperbola.cpp",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_10\\OOP_LAB_10\\Hyperbola.cpp",
+              "RelativeDocumentMoniker": "OOP_LAB_10\\Hyperbola.cpp",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_10\\OOP_LAB_10\\Hyperbola.cpp",
+              "RelativeToolTip": "OOP_LAB_10\\Hyperbola.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T17:34:56.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OOP_LAB_10.cpp",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_10\\OOP_LAB_10\\OOP_LAB_10.cpp",
+              "RelativeDocumentMoniker": "OOP_LAB_10\\OOP_LAB_10.cpp",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_10\\OOP_LAB_10\\OOP_LAB_10.cpp",
+              "RelativeToolTip": "OOP_LAB_10\\OOP_LAB_10.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T17:27:00.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
